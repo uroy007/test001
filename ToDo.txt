@@ -1,3 +1,4 @@
 test document
 
-new line
+newline
+ 2nd change
